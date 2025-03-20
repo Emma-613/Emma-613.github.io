@@ -1,0 +1,33 @@
+<table>
+<caption>Grade's Favorite Ice Cream Flavors</caption>
+  <tr>
+    <th>Chocolate</th>
+    <th>Vanilla</th>
+    <th>Strawberry</th>
+    <th colspan="2">Others</th>
+  </tr>
+  <tr>
+    <td>Freshmen</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Sophomores</td>
+    <td>A</td>
+    <td>B</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td>Juniors</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Seniors</td>
+    <td>D</td>
+    <td>E</td>
+    <td>F</td>
+  </tr>
+</table>
