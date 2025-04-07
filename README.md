@@ -7,3 +7,4 @@
 <p><a href="/BasicWebDesign1/color-scheme-assignment.html" target="blank">Assignment 5 (color-scheme)</a></p>
 <p><a href="/BasicWebDesign1/restaurant-menu-assignment.html" target="blank">Assignment 6 (restaurant-menus)</a></p>
 <p><a href="/BasicWebDesign1/stylish-schedule-assignment.html" target="blank">Assignment 7 (stylish-schedule)</a></p>
+<p><a href="/BasicWebDesign1/team-page-assignment.html" target="blank">Assignment 8 (team-page)</a></p>
