@@ -7,9 +7,6 @@ table, caption, tr, th, td {
     td { 
       padding:10px;
   }
-    .coloring {
-      background-color: #8888AA;
-  }
-    .lightcoloring {
-      background-color: #BBBBDD;
+   a:hover {
+       color: #FF8385;
   }
