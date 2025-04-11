@@ -9,3 +9,6 @@
 <p><a href="/BasicWebDesign1/stylish-schedule-assignment.html" target="blank">Assignment 7 (stylish-schedule)</a></p>
 <p><a href="/BasicWebDesign1/team-page-assignment.html" target="blank">Assignment 8 (team-page)</a></p>
 <p><a href="/BasicWebDesign1/puzzle-assignment.html" target="blank">Assignment 9 (grid-puzzle)</a></p>
+<p><a href="/BasicWebDesign1/score-card-volleyball.html" target="blank">Assignment 10 (score-card VB)</a></p>
+<p><a href="/BasicWebDesign1/score-card-basketball.html" target="blank">Assignment 10 (score-card BB)</a></p>
+<p><a href="/BasicWebDesign1/score-card-soccer.html" target="blank">Assignment 10 (score-card S)</a></p>
