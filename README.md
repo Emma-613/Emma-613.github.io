@@ -13,9 +13,4 @@
 <p><a href="/BasicWebDesign1/score-card-basketball.html" target="blank">Assignment 10 (score-card BB)</a></p>
 <p><a href="/BasicWebDesign1/score-card-soccer.html" target="blank">Assignment 10 (score-card S)</a></p>
 <p><a href="/BasicWebDesign1/video-tutorial.html" target="blank">Assignment 11 (video-tutorial)</a></p>
-<p><a href="/BasicWebDesign1/imitation-project1.html" target="blank">Assignment 12 (imitation-penguin)</a></p>
-<p><a href="/BasicWebDesign1/imitation-project2.html" target="blank">Assignment 12 (imitation-football)</a></p>
-<p><a href="/BasicWebDesign1/imitation-project3.html" target="blank">Assignment 12 (imitation-butterfly)</a></p>
-<p><a href="/BasicWebDesign1/imitation-project4.html" target="blank">Assignment 12 (imitation-dinosaur)</a></p>
-<p><a href="/BasicWebDesign1/imitation-project5.html" target="blank">Assignment 12 (imitation-theater)</a></p>
-<p><a href="/BasicWebDesign1/imitation-project6.html" target="blank">Assignment 12 (imitation-seagull)</a></p>
+<p><a href="/BasicWebDesign1/imitation-project.html" target="blank">Assignment 12 (imitation-photos)</a></p>
