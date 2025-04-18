@@ -34,9 +34,17 @@
       .card-wrapper:hover .card-body {
         transform: rotateX(180deg)
       }
+      .card-front, .card-back {
+         background-color: #ffffff;
+      	position: absolute;
+        width: 300px;
+        height: 150px;
+        backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
+	}
       p.card-front, p.card-back {
               position: relative;
-              top: 50%;
+              top: 150px;
               transform: translateY(-50%);
               font-size: large;
               margin: 0;
@@ -46,7 +54,7 @@
       }
       .card-wrapper:hover .card-body {
         transform: rotateX(180deg);
-			}
+      }
     </style>
     
     <div class="title">American Studies News Quiz</div>
