@@ -22,30 +22,46 @@
         animation-duration: 1.5s;
         animation-delay: 1s;
         animation-fill-mode: forwards;
-      }
-      div.cardfront: hover {
-        width: 300px;
-        width: 150px;
+      .card-body {
+        position: relative;
+        width: 3oopx;
+        height: 150px;
         border: 1px solid #333;
-        margin-top: 40px;
-        transform: rotateX(180deg);
-        position: fixed;
+        text-align: center;
+        transition: transform 0.6s;
+        transform-style: preserve-3d;
       }
-      div.cardback: hover {
-        width: 300px;
-        width: 150px;
-        border: 1px solid #333;
-        margin-top: 40px;
+      .card-wrapper:hover .card-body {
         transform: rotateX(180deg)
-        position:fixed;
+      }
+      p.card-front, p.card-back {
+              position: relative;
+              top: 50%;
+              transform: translateY(-50%);
+              font-size: large;
+              margin: 0;
+      }
+      .cardback: hover {
+        transform: rotateX(180deg);
+      }
+      .card-wrapper:hover .card-body {
+        transform: rotateX(180deg);
+			}
     </style>
     
     <div class="title">American Studies News Quiz</div>
     
-    <div class="cardfront:hover"> What is the name of the world's largest cruise ship?</div>
-    <p class ="cardback:hover">Icon of the Seas</p>
+    <div class="card-wrapper">
+      <div class="card-body">
+        <div class=cardfront">
+      <p>What is the name of the world's largest cruise ship?</p>
+        </div>
+        <div class ="cardback">
+      <p>Icon of the Seas</p>
+        </div>
+      </div>
+    </div>
 
     
-  
   </body>
 </html>
