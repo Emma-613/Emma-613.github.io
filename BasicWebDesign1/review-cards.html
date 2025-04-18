@@ -14,7 +14,7 @@
         height: 50px;
         padding: 20px;
         margin-bottom: 5px;
-        background-color: lavenderpurple;
+        background-color: purple;
         color: white;
         font-weight: bold;
         font-size: 20px;
@@ -23,9 +23,27 @@
         animation-delay: 1s;
         animation-fill-mode: forwards;
       }
+      div.cardfront: hover {
+        width: 300px;
+        width: 150px;
+        border: 1px solid #333;
+        margin-top: 40px;
+        transform: rotateX(180deg);
+      }
+      p.cardback: hover {
+        width: 300px;
+        width: 150px;
+        border: 1px solid #333;
+        margin-top: 40px;
+        transform: rotateX(180deg);
     </style>
     
     <div class="title">American Studies News Quiz</div>
+    
+    <div class="cardfront"> What is the name of the world's largest cruise ship?</div>
+    <p class ="cardback">Icon of the Seas</p>
+
+    
   
   </body>
 </html>
