@@ -1,7 +1,7 @@
 section.container{
   display:flex;
 }
-section div.flex-tem{
+section div.flex-item{
   flex: 1;
   text-align: center;
   background-color: plum;
