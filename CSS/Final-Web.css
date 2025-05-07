@@ -11,4 +11,7 @@ section div.flex-item{
 img, p, h1, h2, h3, table, li, ul{
   text-align: center;
 }
-
+img{
+  text-align: center;
+  padding: 100px;
+}
