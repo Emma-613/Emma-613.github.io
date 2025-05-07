@@ -3,9 +3,9 @@
   width: 100px;
   padding: 5px;
   text-align: center;
-  border: 1px solid black;
+  color: #CC99CC;
 }
-img, p, h1, h2, h3, table, li{
+img, p, h1, h2, h3, table, li, ul{
   text-align: center;
 }
 
