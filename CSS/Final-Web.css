@@ -1,9 +1,10 @@
 .navigation{
   display:inline-block;
+  background-color: #CC99CC;
+  border: 1px solid black;
   width: 100px;
   padding: 5px;
   text-align: center;
-  background-color: #CC99CC;
 }
 .custom{
   list-style-image:url("https://png.pngtree.com/png-clipart/20220330/ourmid/pngtree-pink-aesthetic-instagram-highlight-icon-png-image_4519250.png");
