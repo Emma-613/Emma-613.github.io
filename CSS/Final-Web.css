@@ -1,6 +1,7 @@
 .navigation{
   display:inline-block;
   border: 1px solid black;
+  background-color: #CC99CC;
   width: 100px;
   padding: 5px;
   text-align: center;
