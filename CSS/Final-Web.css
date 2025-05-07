@@ -3,6 +3,7 @@ li{
   width: 100px;
   padding: 5px;
   text-align: center;
+  border: 1px solid black;
 }
 img, p, h1, h2, h3, table
   text-align: center;
