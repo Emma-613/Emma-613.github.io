@@ -52,7 +52,7 @@ body {
   background-position: top center;
   background-repeat: repeat-y;
 }
-div {
+.box {
   border: 1px solid plum;
   padding: 20px;
   margin: 20px;
