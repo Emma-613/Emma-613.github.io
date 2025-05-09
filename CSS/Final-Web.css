@@ -32,4 +32,12 @@ img {
    animation-duration: 1.5s;
    animation-delay: 1s;
    animation-fill-mode: forwards;
-      }
+}
+#logo {
+  display: inline-block;
+  margin: 15px;
+  float: left;
+  height: 60px;
+  width: auto;
+  border-radius: 50%; 
+}
