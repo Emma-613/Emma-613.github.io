@@ -27,12 +27,12 @@ p, h1, h2, h3, table {
    width: 150px;
    height: 50px;
    padding: 20px;
-   margin-bottom: 5px;
+   margin: 20px;
    background-color: plum;
    color: white;
    font-weight: bold;
-   font-size: 55px;
-   letter-spacing: 40px;
+   font-size: 60px;
+   letter-spacing: 50px;
    text-align: center;
    animation-name: animLoop;
    animation-duration: 1.5s;
