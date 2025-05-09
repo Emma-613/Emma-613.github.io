@@ -47,7 +47,7 @@ img {
   border-radius: 50%; 
 }
 body {
-  background-image: url(https://t4.ftcdn.net/jpg/05/75/71/17/360_F_575711794_3xLTBq8CFCkzqGUzzO3GacvIug2fCNZe.jpg");
+  background-image: url("https://t4.ftcdn.net/jpg/05/75/71/17/360_F_575711794_3xLTBq8CFCkzqGUzzO3GacvIug2fCNZe.jpg");
   background-size: cover;
   background-position: top center;
   background-repeat: repeat-y;
