@@ -13,9 +13,9 @@ img, p, h1, h2, h3, table, li, ul{
   background-color: white;
   font-color: plum;
 }
-img {
-  display: block;
-  text-align: center;
+div {
+  display: flex;
+  justify-content: center;
 }
 @keyframes animLoop {
   from {width: 150px;}
