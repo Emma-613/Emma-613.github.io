@@ -29,9 +29,8 @@ img {
    background-color: plum;
    color: white;
    font-weight: bold;
-   font-size: 70px;
-   letter-spacing: 30px;
-   word-spacing:5px;
+   font-size: 150px;
+   letter-spacing: 100px;
    text-align: center;
    animation-name: animLoop;
    animation-duration: 1.5s;
