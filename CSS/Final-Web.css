@@ -21,7 +21,7 @@ p, h1, h2, h3, table {
 }
 @keyframes animLoop {
   from {width: 150px;}
-  to {width: 100%;}
+  to {width: 95%;}
 }
  .title {
    width: 150px;
