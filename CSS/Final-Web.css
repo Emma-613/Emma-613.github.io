@@ -8,11 +8,6 @@
   margin: 5px;
   padding: 5px;
 }
-img, p, h1, h2, h3, table, li, ul{
-  text-align: center;
-  background-color: white;
-  font-color: plum;
-}
 div {
   display: flex;
   justify-content: center;
