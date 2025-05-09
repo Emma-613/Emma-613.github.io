@@ -15,3 +15,7 @@ img {
   border: 1px solid plum;
   background: plum;
 }
+@keyframes animLoop {
+  from {width: 150px;}
+  to {width: 75%;}
+}
