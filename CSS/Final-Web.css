@@ -11,6 +11,7 @@
 img, p, h1, h2, h3, table, li, ul{
   text-align: center;
 }
-img{
-  border: 1px plum;
+img {
+  border: 1px solid plum;
+  background: plum;
 }
