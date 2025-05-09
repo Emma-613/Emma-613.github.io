@@ -42,9 +42,9 @@ div {
 }
 body {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHERUADjRSEYocSsyEuiubed4HETu1m0R7vw&s");
+  background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center;
-  background-repeat: repeat;
+  background-position: center;
 }
 .box {
   border: 1px solid plum;
