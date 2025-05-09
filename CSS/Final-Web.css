@@ -32,14 +32,6 @@ div {
    animation-delay: 1s;
    animation-fill-mode: forwards, backwards;
 }
-#logo {
-  display: inline-block;
-  margin: 15px;
-  float: left;
-  height: 60px;
-  width: auto;
-  border-radius: 50%; 
-}
 body {
   background-image: url("https://www.pixelstalk.net/wp-content/uploads/images6/Purple-Aesthetic-Wallpaper-Minimal.jpg");
   background-repeat: no-repeat;
