@@ -46,10 +46,10 @@ img {
   border-radius: 50%; 
 }
 body {
-  background-image: url("https://t4.ftcdn.net/jpg/05/75/71/17/360_F_575711794_3xLTBq8CFCkzqGUzzO3GacvIug2fCNZe.jpg");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHERUADjRSEYocSsyEuiubed4HETu1m0R7vw&s");
   background-size: cover;
   background-position: top center;
-  background-repeat: repeat-y;
+  background-repeat: repeat;
 }
 .box {
   border: 1px solid plum;
