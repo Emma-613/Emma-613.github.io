@@ -10,6 +10,8 @@
 }
 img, p, h1, h2, h3, table, li, ul{
   text-align: center;
+  background-color:plum;
+  font-color: white;
 }
 img {
   border: 1px solid plum;
