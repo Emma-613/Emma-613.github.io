@@ -9,12 +9,12 @@
   padding: 5px;
 }
 .fix {
-  display: flex;
-  justify-content: center;
   border: 1px solid plum;
   padding: 20px;
   margin: 20px;
   background-color: white;
+  display: flex;
+  justify-content: center;
 }
 p, h1, h2, h3, table {
   text-align:center;
@@ -31,8 +31,8 @@ p, h1, h2, h3, table {
    background-color: plum;
    color: white;
    font-weight: bold;
-   font-size: 60px;
-   letter-spacing: 50px;
+   font-size: 50px;
+   letter-spacing: 30px;
    text-align: center;
    animation-name: animLoop;
    animation-duration: 1.5s;
