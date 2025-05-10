@@ -9,7 +9,6 @@
   padding: 5px;
 }
 .fix {
-  border: 1px solid plum;
   padding: 20px;
   margin: 20px;
   display: flex;
@@ -30,7 +29,7 @@ p, h1, h2, h3, table {
    background-color: plum;
    color: white;
    font-weight: bold;
-   font-size: 70px;
+   font-size: 80px;
    letter-spacing: 50px;
    text-align: center;
    animation-name: animLoop;
@@ -49,5 +48,5 @@ body {
   padding: 20px;
   margin: 20px;
   background-color: white;
-  color: plum;
+  color: black;
 }
