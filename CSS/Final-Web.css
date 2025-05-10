@@ -9,6 +9,7 @@
   padding: 5px;
 }
 .fix {
+  border: 1px solid plum;
   padding: 20px;
   margin: 20px;
   display: flex;
@@ -19,7 +20,7 @@ p, h1, h2, h3, table {
 }
 @keyframes animLoop {
   from {width: 150px;}
-  to {width: 95%;}
+  to {width: 94%;}
 }
  .title {
    width: 150px;
