@@ -27,7 +27,7 @@ p, h1, h2, h3, table {
    padding: 20px;
    margin: 20px;
    background-color: plum;
-   color: white;
+   color: #020121;
    font-weight: bold;
    font-size: 70px;
    letter-spacing: 50px;
@@ -50,10 +50,4 @@ body {
   background-color: white;
   color: black;
 }
-.box2 {
-  width:150px;
-  border: 1px solid plum;
-  padding: 20px;
-  margin: 20px;
-  background-color: white;
-  color: black;
+
