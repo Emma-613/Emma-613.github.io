@@ -50,3 +50,10 @@ body {
   background-color: white;
   color: black;
 }
+.box2 {
+  width:70px;
+  border: 1px solid plum;
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+  color: black;
