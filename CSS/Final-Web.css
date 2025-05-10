@@ -24,8 +24,6 @@ p, h1, h2, h3, table {
  .title {
    width: 150px;
    height: 40px;
-   padding: 10px;
-   margin: 10px;
    background-color: plum;
    color: white;
    font-weight: bold;
