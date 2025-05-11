@@ -52,6 +52,7 @@ body {
 }
 .mmbrs {
   width: 250px;
+  height: auto;
   border: 1px solid plum;
   padding: 20px;
   margin: 20px;
