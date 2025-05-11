@@ -58,6 +58,7 @@ body {
 }
 .boxleft {
   width:400px;
+  margin: 0 auto !important;
   border: 1px solid plum;
   padding: 20px;
   margin: 20px;
