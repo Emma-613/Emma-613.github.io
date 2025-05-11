@@ -16,7 +16,6 @@
 }
 p, h1, h2, h3, table, form, li {
   text-align:center;
-  justify-content:center;
 }
 @keyframes animLoop {
   from {width: 150px;}
