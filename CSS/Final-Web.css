@@ -55,4 +55,12 @@ body {
   margin: 20px;
   color: white;
 }
+.boxleft {
+  width:200px;
+  border: 1px solid plum;
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+  color: black;
+  text-align:left;
 
