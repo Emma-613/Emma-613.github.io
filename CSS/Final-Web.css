@@ -65,13 +65,14 @@ body {
 }
 .merch {
         display: grid;
+        border: 2px solid black;
         grid-template-columns: auto auto;
         grid-template-rows: auto auto;
         grid-auto-flow: column dense;
         grid-column-gap: 10px; 
         grid-row-gap: 10px; 
         justify-content: center; 
-        height: 800px;
+        height: 900px;
         grid-column-start: 1;
         grid-column-end: 2;
         text-align:right;
