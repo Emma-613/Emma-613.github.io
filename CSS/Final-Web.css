@@ -71,7 +71,7 @@ body {
         grid-template-rows: auto auto;
         grid-auto-flow: column dense;
         grid-column-gap: 2px; 
-        grid-row-gap: 2px; 
+        grid-row-gap: 2px !important;
         justify-content: center; 
         height: 800px;
         width:810px;
