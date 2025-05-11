@@ -70,8 +70,8 @@ body {
         grid-template-columns: auto auto;
         grid-template-rows: auto auto;
         grid-auto-flow: column dense;
-        grid-column-gap: 2px; 
-        grid-row-gap: 2px !important;
+        grid-column-gap: 4px; 
+        grid-row-gap: 4px !important;
         justify-content: center; 
         height: 790px;
         width:810px;
