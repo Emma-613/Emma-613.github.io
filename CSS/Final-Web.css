@@ -74,6 +74,7 @@ body {
         height: 800px;
         grid-column-start: 1;
         grid-column-end: 2;
+        text-align:right;
 }
 
 
