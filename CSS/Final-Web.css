@@ -73,7 +73,7 @@ body {
         grid-column-gap: 10px; 
         grid-row-gap: 10px; 
         justify-content: center; 
-        height: 820px;
+        height: 800px;
         width:810px;
         grid-column-start: 1;
         grid-column-end: 2;
