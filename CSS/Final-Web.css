@@ -80,6 +80,9 @@ body {
 }
  table, caption, tr, th, td {
     border: 1px solid black;
+    margin: 0 auto !important;
+    justify-content: center;
+    background-color: white;
   }
     table {
       border-collapse:collapse;
@@ -88,7 +91,7 @@ body {
       padding:10px;
   }
     .coloring {
-      background-color: ##ffcf40;
+      background-color: #ffcf40;
   }
     .lightcoloring {
       background-color: #ffdc73;
