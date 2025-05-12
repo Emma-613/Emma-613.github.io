@@ -82,7 +82,6 @@ body {
     border: 1px solid black;
     margin: 0 auto !important;
     justify-content: center;
-    background-color: white;
   }
     table {
       border-collapse:collapse;
@@ -91,10 +90,12 @@ body {
       padding:10px;
   }
     .coloring {
-      background-color: #ffcf40 !important;
+      background-color: #ffcf40;
   }
     .lightcoloring {
-      background-color: #ffdc73 !important;
+      background-color: #ffdc73;
+    .whitecoloring {
+      background-color: white;
   }
     div.scroll-container {
       background-color: white;
