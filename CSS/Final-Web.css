@@ -78,6 +78,20 @@ body {
         grid-column-end: 2;
         margin: 0 auto !important;
 }
-
+ table, caption, tr, th, td {
+    border: 1px solid black;
+  }
+    table {
+      border-collapse:collapse;
+  }
+    td { 
+      padding:10px;
+  }
+    .coloring {
+      background-color: ##ffcf40;
+  }
+    .lightcoloring {
+      background-color: #ffdc73;
+  }
 
 
