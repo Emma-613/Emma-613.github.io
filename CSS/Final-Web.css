@@ -91,10 +91,10 @@ body {
       padding:10px;
   }
     .coloring {
-      background-color: #ffcf40;
+      background-color: #ffcf40 !important;
   }
     .lightcoloring {
-      background-color: #ffdc73;
+      background-color: #ffdc73 !important;
   }
     div.scroll-container {
       background-color: white;
