@@ -14,7 +14,7 @@
   display: flex;
   justify-content: center;
 }
-p, h1, h2, h3, table, form, li, div {
+p, h1, h2, h3, table, form, li, div, video {
   text-align:center;
   justify-content:center;
 }
